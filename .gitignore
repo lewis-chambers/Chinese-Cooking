@@ -3,4 +3,5 @@
 *.out
 book.*
 !book.tex
+!book.pdf
 .venv/
